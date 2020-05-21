@@ -1,0 +1,797 @@
+,Job Title,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+0,Data Engineer,"We are from the Data Engineering Team in GovTech. Our main role is to support agencies in building data infrastructure to manage their data analytics products, so as to support citizen-centric services that serve the needs of Singaporeans.
+
+We are expanding our team to scale up our work on on-premise systems and government commercial cloud. We are looking for enthusiastic and passionate data engineers who are keen to work on products and services that improve the lives of citizens and enhance service delivery.
+What to Expect:
+Build ingest pipelines to collect, clean, harmonise, merge and consolidate data sources
+Design and build API gateways to expose data to systems via secure means
+Integrate and collate data sources with data systems, with compliance to data security and organisational governance standards
+Collaborate with product managers, software engineers, data analysts and data scientists to build scalable and data-driven products
+
+How to Succeed:
+Good understanding of system design, data structure and algorithms, data modelling, data access and data storage
+Ability to write SQL for databases like Postgres, MongoDB, neo4j
+Proficient in programming languages like R, Python and/or Go
+Familiar with regular expressions and scripting languages like bash, korn, awk
+Prior experience with data engineering tools and frameworks like Airflow, Kafka, Hadoop, Spark, Kubernetes
+Comfortable with DevOps tools like Docker, Git, Terraform
+Familiar with building and using CI/CD pipelines for platform development
+Understand LDAP, OAuth, API gateways
+Able to show some work using cloud technologies like Azure, AWS and Google Cloud
+Working-level understanding of machine learning is an added advantage
+Prior experience in designing, building and maintaining batch and real-time data pipelines is an added advantage
+Applicants without experience are welcome to apply",3.6,"GovTech
+3.6",Singapore,"Singapore, Singapore",1001 to 5000 employees,2016,Government,Government Agencies,Government,Unknown / Non-Applicable,-1
+1,Senior Data Engineer,"Are you passionate about driving business & customer impact through thoughtful analysis and data-driven insights? Are you a deeply technical individual who enjoys working with customers to transform how a business operates? Are you a builder that excels with ambiguity? We are looking for Data Engineering professionals to drive our analytical revolution in the Talent Acquisition (TA) space. You get the opportunity to work on a ground up rebuild of our analytical capabilities, from data ingress, to complex business transformations to end user reporting and beyond. In this role, you will invent and build on behalf of candidates, experiment and test new ideas, evangelize successes, and drive consistency.
+
+The ideal candidate is an independent Data Engineer who can source data, cleanse, analyze, refine, enrich, model, present, automate and document our business data pipelines. You will always be on the lookout for ways to optimize the information flow process, stay on top of latest trends in data warehousing and be able to coordinate and work on multiple, related projects.
+
+
+Responsibilities:
+- Collaborate with researchers, software developers, and business leaders to define business processes and provide analytical support
+- Leverage code to analyze complex datasets and design, develop and evaluate data transformations to solve specific business problems
+- Build scalable, efficient, and automated data processes to facilitate customer-facing reporting
+- Automate TA processes to streamline business operations
+- Communicate verbally or in writing to business customers / leadership to sharing insights and recommendations
+
+
+
+Basic Qualifications
+
+BASIC QUALIFICATIONS
+- Degree in Computer Science or related engineering field
+- Self-sufficient in data analysis
+- Fluent in SQL
+- Intermediate knowledge of big data technologies such as Spark
+- Familiarity with BI Tools such as QuickSight, Tableau, and MicroStrategy
+- Understands data warehouse design
+
+- 5 years of experience in the analytics or related field
+
+
+Preferred Qualifications
+
+Preferred Qualifications
+- Demonstrable expertise in dimensional modelling and Data Warehouse tuning
+- Meets/exceeds Amazons leadership principles requirements for this role
+- Meets/exceeds Amazons functional/technical depth and complexity for this role
+- Strong understanding of information security as applied to handling sensitive data
+- 7 years of experience in the analytics or related field
+
+
+Amazon is an Equal Opportunity-Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation",4.1,"Amazon
+4.1",Singapore,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,$10+ billion (SGD),"Google, Microsoft, Walmart"
+2,Data Engineer,"Analytics
+Data Engineer - QuantumBlack
+
+Singapore City
+
+Apply Now
+
+Qualifications
+
+Meaningful experience with at least two of the following technologies: Python, Scala, SQL, Java
+Commercial client-facing project experience is helpful, including working in close-knit teams
+Ability to work across structured, semi-structured, and unstructured data, extracting information and identifying linkages across disparate data sets
+Meaningful experience in multiple database technologies such as Distributed Processing (Spark, Hadoop, EMR), Traditional RDBMS (MS SQL Server, Oracle, MySQL, PostgreSQL), MPP (AWS Redshift, Teradata), NoSQL (MongoDB, DynamoDB, Cassandra, Neo4J, Titan)
+Ability to clearly communicate complex solutions
+Deep understanding of Information Security principles to ensure compliant handling and management of client data
+Experience and interest in Cloud platforms such as: AWS, Azure, Goole Platform or Databricks
+Confirmed experience in traditional data warehousing / ETL tools (Informatica, Talend, Pentaho, DataStage)
+Extraordinary attention to detail
+
+Who You'll Work With
+
+
+You will be based in Singapore and part of QuantumBlack, Our Consultant Data Engineers work closely with our clients and our Data Scientists in order to curate, transform and construct features which feed directly into our modelling approach.
+
+This is a hybrid client-facing/technical role using state of the art technologies, whilst also being able to communicate complex intractable ideas to non-technical audiences. Collecting clear requirements is a key part of this role and will define the technical strategy the team employs on the study.
+
+Who you are
+
+A core value at QuantumBlack is fusion and at the heart of our multi-disciplinary teams is the belief that the sum of individual parts will always be less than the impact of the entire team. You are a highly collaborative individual who is capable of laying aside your own agenda, listening to and learning from colleagues, challenging thoughtfully and prioritising impact. You search for ways to improve things and work collaboratively with colleagues. You believe in iterative change, experimenting with new approaches, learning and improving to move forward quickly. Trust between colleagues is paramount here – you are an individual who can always be trusted to work in the best interests of all colleagues and to achieve the best outcome for QuantumBlack and our clients. You are naturally enthusiastic and enjoy sharing your passion with others.
+
+What You'll Do
+
+
+As a Senior Data Engineer in Singapore...
+
+You will work in multi-disciplinary environments harnessing data to provide real-world impact for organisations globally. You will influence many of the recommendations our clients need to positively change their businesses and enhance performance.
+
+Role responsibilities
+Work with our clients to model their data landscape, obtain data extracts and define secure data exchange approaches
+Acquire, ingest, and process data from multiple sources and systems into Big Data platforms
+Understanding, assessing and mapping the data landscape.
+Maintaining our Information Security standards on the engagement.
+Collaborate with our data scientists to map data fields to hypotheses and curate, wrangle, and prepare data for use in their advanced analytical models.
+Defining the technology stack to be provisioned by our infrastructure team.
+Building modular pipeline to construct features and modelling tables.
+Use new and creative techniques to deliver impact for our clients as well as internal R&D projects.
+What you’ll learn
+How successful projects on real world problems across a variety of industries are completed through referencing past deliveries of end to end pipelines.
+Build products alongside the Core engineering team and evolve the engineering process to scale with data, handling complex problems and advanced client situations.
+Be focused on the wrangling, clean-up and transformation of data by working alongside the Data Science team which focuses on modelling the data.
+Using new technologies and problem-solving skills in a multicultural and creative environment.
+You will work on the frameworks and libraries that our teams of Data Scientists and Data Engineers use to progress from data to impact. You will guide global companies through data science solutions to transform their businesses and enhance performance across industries including healthcare, automotive, energy and elite sport.
+Real-World Impact– No project is ever the same; we work across multiple sectors, providing unique learning and development opportunities internationally.
+Fusing Tech & Leadership– We work with the latest technologies and methodologies and offer first class learning programmes at all levels.
+Multidisciplinary Teamwork- Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance.
+Innovative Work Culture– Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions.
+Striving for Diversity– With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life.
+Our projects range from helping pharmaceutical companies bring lifesaving drugs to market quicker to optimising a Formula1 car’s performance. At QuantumBlack you have the best of both worlds; all the benefits of being part of one of the leading management consultancies globally and the autonomy to thrive in a fast growth tech culture:
+Healthcare Efficiency– We helped a healthcare provider improve their clinical trial practices by identifying congestion in diagnostic testing as a key indicator of admissions breaches.
+Environmental Impact– We designed and built the first data-driven application for a state of the art centre of excellence in urban innovation by collecting real-time data from environmental sensors across London and deploying proprietary analytics to find unexpected patterns in air pollution.
+Product Development– We worked with the CEO of an elite automotive organisation to reduce the 18-month car development timeframe by improving processes, designs and team structures.
+Please submit your CV in English
+
+Visit our Careers site to watch our video and read about our interview processes and benefits
+
+As an equal opportunity employer, QuantumBlack encourages applications from all backgrounds regardless of gender, race, disability, pregnancy, marital status, age, sexual orientation, gender reassignment, religion or belief. We maintain a sense of community rooted in respect and consideration for all employees where any evaluation is based simply upon individual work and team performance.
+
+Industries
+High Tech
+
+Functions
+Technology
+
+Apply Now
+FOR U.S. APPLICANTS: McKinsey & Company is an Equal Opportunity/Affirmative Action employer.
+All qualified applicants will receive consideration for employment without regard to sex, gender
+identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran
+status, age, or any other characteristic protected by applicable law.
+
+FOR NON-U.S. APPLICANTS: McKinsey & Company is an Equal Opportunity employer. For additional details
+regarding our global EEO policy and diversity initiatives, please visit our
+McKinsey Careers and
+Diversity & Inclusion sites.",4.1,"QuantumBlack
+4.1",Singapore,"London, United Kingdom",501 to 1000 employees,2009,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,"Palantir Technologies, Google, Microsoft"
+3,DATA SERVICES ENGINEER 1,"Req. ID: 136562
+
+Micron Technology’s vision is to transform how the world uses information to enrich life and our commitment to people, innovation, tenacity, teamwork, and customer focus allows us to fulfill our mission to be a global leader in memory and storage solutions. This means conducting business with integrity, accountability, and professionalism while supporting our global community.
+
+This role comes with great responsibility. You will be working on critical databases which is meaningful for the business.
+
+Responsibilities:
+Design, implement and manage mission critical databases and data warehouse for Manufacturing and Engineering operations.
+Perform capacity planning, evaluate database technologies and tools to continuously improve database performance, reliability and availability.
+Participate in Agile development lifecycle for software and solutions related to Manufacturing and Engineering.
+Develop and maintain reliable data ingest pipeline for real time data analytics related to Smart Manufacturing and Big Data platforms.
+Provide operation support, including participating in on-call rotations, to ensure high performance and availability of the databases.
+Requirements:
+
+Bachelor’s or Master’s degree Computer Science, Electrical & Electronics/Computer/Software Engineering, Information Systems or related fields.
+Fresh graduates are welcome to apply. Candidates with minimum 4 years of relevant working experience may be considered for a senior position.
+Experienced candidates need to be proficient in at least one of the following:
+Microsoft SQL Server 2012/2016/2017 Administration
+Oracle Database 11g/12c Administration
+ETL/BI solutions using Microsoft SSIS, Informatica PowerExchange, NiFi or having database programming experience (TSQL, PL/SQL)
+Good understanding and hands-on experience in the following areas will be advantageous:
+Linux and Windows operation systems.
+Programming languages such as Java, JavaScript, Bash and Python.
+Hadoop based technologies such as HDFS, MapReduce, Hive, MongoDB, HBase, Spark, Kafka etc.
+Big Data visualization and reporting software such as Tableau.
+Effective oral and written communication with strong analytical, problem solving and project management skills.
+Flexible to work on any shift.
+We recruit, hire, train, promote, discipline and provide other conditions of employment without regard to a person's race, color, religion, sex, age, national origin, disability, sexual orientation, gender identity and expression, pregnancy, veteran’s status, or other classifications protected under law. This includes providing reasonable accommodation for team members' disabilities or religious beliefs and practices.
+
+Each manager, supervisor and team member is responsible for carrying out this policy. The EEO Administrator in Human Resources is responsible for administration of this policy. The administrator will monitor compliance and is available to answer any questions on EEO matters.
+
+To request assistance with the application process, please contact Micron’s Human Resources Department at 1-800-336-8918 (or 208-368-4748).
+
+Keywords: Singapore || Central Singapore (SG-01) || Singapore (SG) || SGA || College || Regular || Information Systems and Technology || #LI-JJ1 ||",3.4,"Micron Technology
+3.4",Singapore,"Boise, ID",10000+ employees,1978,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (SGD),"Samsung Electronics, SK hynix, Toshiba"
+4,Data Engineer,"Data Engineer
+Department: Engineering and Technology
+Level: Entry Level
+Office Location: Singapore
+
+The Engineering and Technology team is at the core of the Shopee platform development. The team is made up of a group of passionate engineers from all over the world, striving to build the best systems with the most suitable technologies. Our engineers do not merely solve problems at hand; We build foundations for a long-lasting future. We don't limit ourselves on what we can or can't do; we take matters into our own hands even if it means drilling down to the bottom layer of the computing platform. Shopee's hyper-growing business scale has transformed most ""innocent"" problems into huge technical challenges, and there is no better place to experience it first-hand if you love technologies as much as we do.
+Job Description:
+Design and grow Shopee’s data warehouse, build reliable and smart ways to ingest data to the warehouse, and help engineer efficient data pipelines. Some examples include self-service data ingestion systems, Airflow-enabled workflows with code-as-configuration, and data validation tools
+Build critical data marts and applications to support products and solve specific business needs, design data models for optimal storage and retrieval, and optimize data architectures to meet critical product and business requirements. Some examples include a real-time Campaign Mart (used to serve the business with live intelligence) and Order Mart (to supply low latency seller performance system)
+Requirements:
+B. Sci. / Ms / PhD in Computer Science or a related technical field
+Less than 1 year of experience welcomed
+Working experience in software development in at least one of these languages: Java, Scala, Python, C/C++, under Linux / Unix. Scala is a plus
+Familiar with SQL; strong scripting ability in Bash is a plus
+Familiar with Hadoop, Spark, Kafka, Presto, and other big data experience is a plus
+Familiar designing and operating of a robust distributed system is a plus
+Love to use and develop open-source technologies
+Excited to work intimately with data
+Passionate, self-motivated, and takes ownership",3.5,"Shopee
+3.5",Singapore,"Singapore, Singapore",5001 to 10000 employees,2015,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,"Lazada, Tokopedia"
+5,"Software Engineer, Data Platform","Software Engineer, Data Platform
+SingaporeR&DExperienced
+Responsibilities
+1. Build cutting-edge systems to handle huge amount of data every day, to empower ByteDance's products. Your contributions will impact hundreds of millions of users worldwide.
+Build large scale data analytics products for EB-level datasets to respond user queries within seconds.
+Equipped with product-oriented mindset, deeply understand domain knowledge from product to business, to efficiently enabling various data analysis scenarios across the whole of our products.
+Qualifications
+1. Understand principles of databases and/or distributed systems, able to think clearly, and quickly deep dive into problems and solve them.
+Proficient in at least one programming languages listed here: C++, Java, Python.
+Preferably knowledge in at least one existing system, for example, Hive/Kylin/Presto/ClickHouse/Spark/Hadoop. Contributor or committer to one or more of these projects are preferred.
+Apply
+Share to",3.9,"ByteDance
+3.9",Singapore,"Beijing, China",10000+ employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+6,Systems Engineer,"1. Preparation of all relevant presales work but not limited to presentation and demonstration of software solutions/architecture including proof of concepts to facilitate sales closure
+
+2. Part of project implementation team
+
+3. End user training on developed applications
+
+4. Preparation of implemented project documentation
+
+Pre- requisites
+
+a) Depgree in Computer eningeering or equivalent
+
+b) conversant with Java programming including XML, Flash or HTML5
+
+c) familiar with enterprise search and data analytics is an added advantage
+
+d) familiar with Oracle or SQL
+
+d) Conversant in English, Chinese and Bahasa Malayu
+
+Successful candidate can look to work on latest AI tools and date anlytics in Asan",2.4,"IT Works Consultancy Pte Ltd
+2.4",Bukit Merah,"Singapore, Singapore",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+7,Data Engineer,"Roles & Responsibilities
+
+Key Responsibilities
+Develops and maintains scalable data pipelines and builds out new API integrations to support growing data volume and complexity.
+Collaborates with analytics and business teams to improve data models that feed business intelligence tools, increasing data accessibility and fostering data-driven decision making across the organization.
+Implements processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes that depend on it.
+Writes unit/integration tests, contributes to engineering wiki, and documents work.
+Performs data analysis required to troubleshoot data related issues and assist in the resolution of data issues.
+Works closely with a team of frontend and backend engineers, product managers, and analysts.
+Designs data integrations and data quality framework.
+Evaluates open source and vendor tools for data lineage.
+Works closely with all business units and engineering teams to develop strategies for long term data platform architecture.
+Requirements
+BS or MS degree in Computer Science or a related technical field
+4+ years of Python or Java development experience
+4+ years of SQL experience (No-SQL experience is a plus)
+4+ years of experience with schema design and dimensional data modeling
+Ability in managing and communicating data warehouse plans to internal clients
+Experience designing, building, and maintaining data processing systems including Data Lakes
+2+ Years’ experience in using Cloud platforms by vendor such as AWS, Azure, Google with hands-on exposure to technology such as S3, Redshift, AWS Batch or the equivalents
+[CANDIDATES WHO REQUIRE WORK PASSES NEED NOT APPLY]",4.1,"SINGAPORE LIFE PTE. LTD.
+4.1",Singapore,"Tokyo, Japan",10000+ employees,-1,Company - Public,Insurance Operators,Insurance,$10+ billion (SGD),-1
+8,Data Engineer,"Responsibilities:
+Participate in R&D and performance optimization of big data platforms
+Responsible for the construction and maintenance of big data platforms, including but not limited to BI systems, scheduling systems, metadata systems, development platforms, data analysis/mining platforms, etc.;
+Understand STATS requirements and design corresponding data matrix.
+Implement the ETL process using java, scala, spark Integrate stats into existing web portals.
+Through the insight of data, build report to PM, marketing/operation executive and CEO.
+Document the developed DATA process logic.
+Troubleshoot irregular stats.
+Improve the existing DATA system.
+
+Requirements:
+Bachelor degree either in Computer Science, Computer Engineering or equivalent
+2 - 4 years of working experience
+Familiar with data warehouse theory, with ability to comb with complex business requirements
+Proficient in SQL development, proficient in one or more of relational databases such as Mysql
+Proficient in Hadoop and MapReduce application development, proficient in one or more of big data development tools such as HBase, Hive, Storm, Impala, Kylin, spark, etc.
+Be familiar with Linux system, have shell, python and other script development capabilities are preferred
+Strong in learning ability, likes to study open source new technologies
+Ability to solve problems independently.",3.6,"Mozat
+3.6",Singapore,"Singapore, Singapore",51 to 200 employees,2003,Company - Public,Computer Hardware & Software,Information Technology,$10 to $25 million (SGD),-1
+9,Data Engineer,"Roles & Responsibilities
+Based in the Group Customer Analytics & Decisioning team, you will be responsible for developing & optimizing Treasury related data pipelines & architecture. These will support analytical needs around topics such as sales productivity and revenue process.
+Create and maintain the optimal data pipeline architecture to enable ingestion from a wide variety of structured and unstructured data sources.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery and cleansing/transformation.
+Support development and deployment of applications utilising the data pipelines to provide actionable insights.
+LI-ML
+Qualifications
+
+Requirements
+
+Minimum 7 years of working experience in data management, ETL and analysis functions
+Understanding of banking with strong exposure to Treasury business functions
+Leverage the subject matter experts across technology and business in delivery of structured and well-thought through solutions
+Solid background in traditional structured database environments such as Teradata / Oracle, SQL & PL/SQL.
+Knowledge on data warehouse and FSLDM concepts
+Exposure to basic Hadoop Ecosystem components such as HIVE / Sqoop / Oozie
+Experience in end to end automation – building procedures, ETL and automated job scheduling – using the likes of DataStage, Talend, Kafka, Airflow, Pentaho
+Ideally some knowledge of analytical software tools such as Python / R / SAS / QlikView / Tableau / Spark
+Energetic personality with an innovative, self-starting spirit. Someone that likes to ask “why?”
+
+Primary Location: Singapore
+Job: Analytics
+Organization: Group Customer Analytics and Decisioning
+Schedule: Permanent
+: Full-time
+Job Posting: 24-Apr-2020, 1:44:43 AM",3.6,"OCBC Bank
+3.6",Singapore,"Singapore, Singapore",10000+ employees,1932,Company - Public,Banks & Building Societies,Finance,$10+ billion (SGD),"DBS Bank, United Overseas Bank"
+10,"Big Data Engineer (Financial Services), Advisory","We
+are the only professional services organisation who has a separate business
+dedicated exclusively to the financial services marketplace. Join Financial
+Services (FSO) and you will work with multi-disciplinary teams from around the
+world to deliver a global perspective. Aligned to key industry groups including
+asset management, banking and capital markets, insurance and private equity, we
+provide integrated advisory, assurance, tax, and transaction services.
+
+Your Key Responsibilities
+
+Participation
+in large-scale client engagements.
+Contribution
+towards, or even leading, the delivery of innovative and engaging big data
+solutions.
+Understanding
+of business and technical requirements, provision of subject matter
+expertise, and implementation of big data engineering techniques.
+Conducting
+of data discovery activities, performing root cause analysis, and making
+recommendations for the remediation of data quality issues.
+Putting
+into practice good organizational and time management skills, with the
+ability to prioritize and complete multiple complex projects under tight
+deadlines.
+The Opportunity
+
+As
+part of our Data and Analytics team of Financial Services Advisory practice you
+will work with multi-disciplinary teams to support clients in a wide range of
+big data initiatives aiming to generate and present new, useful and actionable
+insights. You will have the opportunity to work and take responsibilities in
+challenging engagements, gaining exposure to clients in various sectors both in
+Singapore and in the APAC region.
+Skills and Attributes for
+Success
+Leverage technology to
+continually learn, improve service delivery and maintain our leading-edge
+best practices
+Strong presentation skills and
+proficiency in the use of PowerPoint, Word and Excel
+Good understanding of financial
+services industry
+Ideally, you’ll also have
+
+Design
+and implementation experience of data models in physical form in one (or
+more) of the leading RDBMS platforms such as SQL Server, Oracle, IBM
+DB2/Netezza, Teradata, etc.
+Experience
+with Business Intelligence or statistical analysis tools and techniques.
+Strong
+communication and business relationship skills to effectively explain
+analysis, both verbally and in writing, to others and translate analysis
+into a clear business plan.
+Strong
+time management and organizational skills to gather and make use of data
+(both internal and external).
+To Qualify for the role,
+you must have
+Understanding or even practical
+experience of handling and manipulating semi-structured and unstructured
+data.
+Deep understanding of big data
+technology, concepts, tools, features, functions and benefits of different
+approaches available.
+Ability to deploy, manage, and
+administer Hadoop-based components.
+Ability to design, build,
+install, configure and support Hadoop-based applications.
+Experience with one of Java, C#
+or C++.
+Hands-on experience with HiveQL.
+Familiarity with data ingestion
+tools such as Kafka, Flume and Sqoop.
+Knowledge of hadoop related
+workflow/scheduling tools such as Oozie.
+Understanding of data modeling
+(ER models) techniques.
+Experience with investigating and
+handling data quality issues.
+Minimum 1-5 years hands-on
+experience in two (2) or more of the above areas.
+A Bachelor or Master’s degree in
+computer science, Engineering, or other related fields.
+
+
+What
+we look for
+
+Highly
+motivated individuals with excellent problem-solving skills and the ability to
+prioritize shifting workloads in a rapidly changing industry. An effective
+communicator, you’ll be a confident team player that collaborates with people
+from various teams while looking to develop your career in a dynamic
+organization.
+
+About EY
+
+As a global leader in
+assurance, tax, transaction and advisory services, we’re using the finance
+products, expertise and systems we’ve developed to build a better working
+world. That starts with a culture that believes in giving you the training,
+opportunities and creative freedom to make things better. Whenever you join,
+however long you stay, the exceptional EY experience lasts a lifetime. And with
+a commitment to hiring and developing the most passionate people, we’ll make
+our ambition to be the best employer by 2020 a reality.
+
+What working at EY
+offers
+
+We offer a competitive
+compensation package where you’ll be rewarded based on your performance and
+recognized for the value you bring to our business. We also offer you:
+Support, coaching and feedback
+from some of the most engaging colleagues around
+Opportunities to develop new
+skills and progress your career
+The freedom and flexibility to
+handle your role in a way that’s right for you
+If you can confidently
+demonstrate that you meet the criteria above, please contact us as soon as
+possible.
+
+Join us in building a
+better working world. Apply now.
+
+Want to get to know us
+better?
+
+Visit ey.com/sg/careers
+
+Become a fan on
+Facebook: facebook.com/EYCareersSingapore
+
+Follow us on
+Instagram: instagram.com/EYSGCareers
+
+Connect with us on
+LinkedIn: bit.ly/EYLinked_Careers
+
+Watch us on YouTube: youtube.com/ernstandyoungglobal",3.8,"EY
+3.8",Singapore,"London, United Kingdom",10000+ employees,1989,Company - Private,Accounting,Accounting & Legal,$10+ billion (SGD),"Deloitte, KPMG, PwC"
+11,Data Engineer,"My client, a leading player in the Asian market and a truly Data-Centric firm, is looking to bring in a Data Engineer to work closely with the CTO and the rest of the team on developing their platform for deployment. The successful candidate will have 5+ years of experience developing high-quality Java code as well as extensive experience working on a variety of Databases.
+Due to the current situation only applicants already based in Singapore will be considered for this role*
+Responsibilities
+Design and develop the data infrastructure and systems so that they can be used to maximum effect.
+Be proficient in high-quality Engineering principles
+Be ready to use innovative techniques to try and improve the working processes of the Data Systems
+Be able to engage with a wide variety of stakeholders on practices and the application of the Data Science work
+Required Skills/Qualifications
+5+ years experience developing top quality code, preferably in Java ( Might also be considered in Python or Scala)
+5 + years of experience in transforming data from one format to another from various types of database
+Good experience in designing and developing data pipelines
+Good experience with various technologies such as Spark, Snowflake, Tableau, Superset, Kuberflow, and Jupyter
+Good knowledge of Machine Learning
+Excellent verbal and written communication skills
+Please send your resume in WORD format by clicking the apply button below or contact Michael Rose on +65 6701 1525 for a confidential discussion. Please note that only short-listed candidates will be contacted. CEI Reg. Number R2091052 (Rose Michael Darren).",3.0,"VOLT
+3.0",Singapore,"New York, NY",10000+ employees,1950,Company - Public,Staffing & Outsourcing,Business Services,$2 to $5 billion (SGD),"TEKsystems, Kelly, Manpower"
+12,Data Engineer,"Job Information
+
+Industry
+Financial Services
+
+Location
+Singapore
+
+Work Experience
+2-5 years
+
+City
+Singapore
+
+State/Province
+Central Singapore
+
+Zip/Postal Code
+048583
+
+Job Description
+
+Upskills is looking for a Data Engineer to build something great with us. As part of the Machine Learning team, you will work with both Data Scientist and Client to develop and own stable, scalable, and repeatable data-driven features. We're looking for a self-motivated engineer who has a passion for working with an event-based architecture heavily leveraging the AWS/GGC/Azure cloud data stack & tools. The data engineering team is core to driving and delivering the current and future data, analytics, and decisioning platforms across Upskills.
+
+Here is what you'll be doing:
+
+· Work with data scientist and product management to implement data-driven features/product
+
+· Apply architecture and system design theories and principles, perform complex work in research, design and development of new or existing products, tools and processes required for the operation, maintenance and testing of products.
+
+· Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+
+· Be a key contributor in the engineering of distributed systems, frameworks, and design patterns of Data Science/Machine Learning
+
+· Use Scala, Java or Python to utilize Hadoop/Spark to collect and analyse large-scale datasets in batch and real-time
+
+· Build, monitor, and maintain data ETL pipelines
+
+· Mentor internship/junior data engineers in principles and best practices
+Share relevant knowledge and evangelize Data Engineering with Machine Learning teams
+
+Requirements
+
+
+Here is what we're looking for:
+
+· Bachelor's degree in Computer Science, Engineering or a related field or equivalent work experience
+
+· More than 2 years of advanced Python or Java development is necessary. Scala, Rust or Go experience is a plus.
+
+· Experience working in the Hadoop ecosystem, using tools such as Hive, Spark, or Pig. Experience with Apache Kafka is a plus.
+
+· Experience working in the containerization system, using platform such as Docker or Openshift
+
+· Proven expertise in taking Machine Learning projects from conception to implementation
+
+· Experience with event-driven architecture design patterns and practices
+
+· Experience in database design and architecture principles, and strong SQL abilities
+
+· Experience with the following a strong plus:
+
+o AWS DynamoDB, Hive, Cassandra, Bigtable, or other big data stores
+
+o Experience in custom ELT pipeline design, implementation and maintenance (Airflow or other similar tools)
+
+· Agile development experience",3.1,"Upskills
+3.1",Singapore,"Singapore, Singapore",1 to 50 employees,2011,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1
+13,Data Engineer,"ABOUT JANIO
+Janio is a cross-border logistics platform that provides an integrated end-to-end logistics solution to merchants across Southeast Asia (SEA). At our core we operate as a smart logistics solutions provider, serving merchants and logistics partners and connecting industry players across the globe.
+
+Through Janio, we strive to create a truly integrated network that brings together every key player to become the backbone supporting SEA’s growing e-commerce ecosystem. Looking ahead, our platform would look to incorporate elements of AI and machine learning to provide a suite of smart solutions for real-time tracking, route optimization, warehouse management and dynamic forecasting to truly become a data-intelligent platform.
+
+THE ROLE
+Janio Asia is looking for a Data Engineer to join our rapidly expanding team. We invite candidates with an entrepreneurial and motivated mindset, as well as a keen interest in combining logistics with new technologies, to apply.
+
+This position reports directly to the Head of Business Intelligence. The Business Intelligence function provides data services, analytics, reporting and data science solutions to all internal verticals. We offer candidates opportunities to develop and grow professionally as valued team members in a dynamic and often cross-functional startup environment.
+
+The successful candidate will:
+Engage directly with key business leads to understand the business strategies and solution needs, drive and lead technical design discussions with development teams.
+Be hands-on in technical solution design and development work. Designing, developing and scaling these big data technologies (Teradata, HANA, Vertica, Hadoop, Kafka, Spark, Cassandra and beyond) are a core part of your daily job.
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.
+Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+
+THE REQUIREMENTS
+Experience in designing and building dimensional data models to improve accessibility, efficiency and quality of data
+Programming experience in building data pipelines and data analytics solutions, with in-depth understanding of data structures and algorithms
+Database development experience with Relational or MPP/distributed systems such as Oracle/Teradata/Vertica/Hadoop
+Proficient in writing Advanced SQLs and in performance tuning of SQLs. Experience with data science and machine learning tools/technologies is a plus
+Programming experience in any of the following programming languages : C, C++, Java, Perl, Python
+Demonstrate strong understanding of development processes
+Strong analytical and communication skills
+Driven to learn business processes, analyse and understand data",4.6,"Janio Technologies Ltd
+4.6",Singapore,"Singapore, Singapore",51 to 200 employees,2018,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable,-1
+14,Senior Data Engineer,"REPA Team – Senior Data Engineer.
+
+Reporting to Portfolio Planning Manager, Google
+
+Responsibilities (* indicates Essentials Duties):
+
+The Senior Data Engineer is part of a team of data analysts and have overall responsibility for maintaining and directing the ongoing development of the data infrastructure, that serves as the foundation for JLL client’s global real estate portfolio planning function.
+
+The Senior Data Engineer will oversee the following functions:
+Design, create and maintain appropriate data architecture,
+Design, and implement process improvements: automating manual processes, optimising data delivery, re-designing infrastructure for greater scalability.
+Implement the infrastructure required for ETL data processes and the acquisition and transfer of real estate, financial and HR data using SQL and other technologies.
+Work with multiple client stakeholders to assist with bugs, technical issues and support their data infrastructure needs.
+Work with on-site team to obtain necessary information and ensure system accuracy.
+Work with data and analytics experts to strive for greater functionality in our data systems.
+Developing processes and systems to improve current operations, platform development and data analysis.
+Create custom views, adhoc analysis, dashboards and report sets utilizing business intelligence and query tools.*
+Validating and testing data used in all reporting.
+Working with on-site management to design and execute analyses focused on specific problems or programs.
+Must thrive in a fast-paced and dynamic environment.
+Other duties as assigned.
+Some travel may be required.
+Knowledge, Skills, and Abilities:
+
+Required
+Bachelor’s degree in information technology, statistics or mathematics or related discipline or equivalent work experience.
+Solid customer service skills.
+Experience using Microsoft Excel and/or Google spreadsheets for report generation and data manipulation.
+Experience using Microsoft PowerPoint and Microsoft Word to present findings, reports and analyses
+Strong interpersonal and communication skills, both oral and written
+Demonstrated team and collaboration skills.
+Strong organizational skills.
+Strong analytical, technical, problem-solving and conceptual skills.
+3-5 years as a data engineer/technical analyst
+Experience with data quality control and normalization.
+Experience with Structured Query Language and database design concepts.
+Strong attention to detail and quality.
+Preferred
+Experience with Financial Analysis.
+Experience with ETL platforms and ETL workflow design and execution.
+Knowledge of CAFM/IWMS systems.
+Understanding of Facilities, Real Estate and Asset Management industry and practices.
+JLL Privacy Notice
+
+Jones Lang LaSalle (JLL), together with its subsidiaries and affiliates, is a leading global provider of real estate and investment management services. We take our responsibility to protect the personal information provided to us seriously. Generally the personal information we collect from you are for the purposes of processing in connection with JLL’s recruitment process. We endeavour to keep your personal information secure with appropriate level of security and keep for as long as we need it for legitimate business or legal reasons. We will then delete it safely and securely.
+
+For more information about how JLL processes your personal data, please view our Candidate Privacy Statement.
+
+For additional details please see our career site pages for each country.
+
+For employees in the United States, please see a fully copy of our Equal Employment Opportunity and Affirmative Action policy here.
+
+Jones Lang LaSalle (“JLL”) is an Equal Opportunity Employer and is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process – including the online application and/or overall selection process – you may email us at Accommodation.Reques@am.jll.com. This email is only to request an accommodation. Please direct any other general recruiting inquiries to our Contact Us page > I want to work for JLL.",3.7,"Jones Lang LaSalle
+3.7",Singapore,"Chicago, IL",10000+ employees,-1,Company - Public,Real Estate,Real Estate,$10+ billion (SGD),"CBRE, Cushman & Wakefield"
+15,Data Engineer,"At Prudential, we understand that success comes from the talent and commitment of our people. Together, we have a shared vision in securing the future of our customers and our communities. We strive to build a business that you can shape, an inclusive workplace where everyone’s ideas are valued and a culture where we can thrive together. Our people stay connected and tuned in to what’s happening around us, keeping us ahead of the curve. While focused on the long-term, we look to the future to bring growth, development and benefit to everyone whose lives we touch.
+
+Design and build ETL solutions for IFRS17 project. Participate in full SDLC process to support various types of testing and deployment. Provide production and maintenance support after project go live.
+
+Job Profile Summary:
+
+In this role, you will work with existing data analysts and subject matter experts in all parts of the insurance business to deploy complex analytics to enable business to make better decisions. As part of this dynamic role, you will work closely with business units and other IT teams to deliver leading edge predictive and prescriptive analytics to enable digital capabilities of Prudential Singapore.
+
+Job Description:
+Design and develop ETL jobs using SQL, SSIS, Azure, and big data technologies
+Responsible for end to end data processing from source data ingestion, data modelling, data mapping and transformation, and data delivery to downstream consuming systems
+Provide support for various types of testing, including SIT, UAT, ORT and other testing if necessary
+Comply with PACS SDLC process, architectural standards, and security policies in all delivery work
+Collaborate with relevant stakeholders (including business users, project team members, and cross functional teams) from all Prudential entities across the region to deliver approved solutions that meet the business requirements on time, on cost, and with quality
+Deliver documentation artefacts per SDLC requirements, such as technical specs, data model and data dictionary, interface specs, data mapping specs, test cases and summary, deployment guide, production support guide, etc.
+Who we are looking for:
+
+Competent in 3 or more areas of the following technology:
+Databases: RDBMS, SQL programming
+ETL and Data Integration Tools: Azure Data Factory (ADF), Microsoft SQL Server Integration Service (SSIS), SAS Data Integration
+Big Data: Hadoop (Hortonworks), Hive, Spark, Sqoop, etc
+Programming and Scripting: Linux/Unix Shell Scripting, Java, Scala, Hive QL
+BI/Dashboarding: SAS Visual Analytics, Qliksense
+Working Experience
+3-8 years in data engineering and modelling.
+Hands on in managing data mapping, data quality and integrity, performance in data processing, etc
+Experience in insurance domain (e.g. LifeAsia system) is an advantage
+Experience in Agile software development
+Education
+Bachelor in Computer Science, Computer Engineering or equivalent
+Personal Traits
+Proactive with can-do attitude
+Independent and self-motivated
+Able to work under pressure to meet tight timeline
+Able to provide regular updates",3.2,"Prudential plc
+3.2",Singapore,"London, United Kingdom",10000+ employees,1848,Company - Public,Insurance Operators,Insurance,$10+ billion (SGD),-1
+16,Data Engineer,"DANONE PLACE SINGAPORE
+
+About the Role
+
+For the Data Science team in Singapore, Specialized Nutrition division, and as a part of the Precision Nutrition D-Lab (R&I) we are looking for a Data Engineer: a pivotal role dedicated to supporting our team in the creation and management of systems for data coming from sources such as digital devices and ""omics"" platforms (i.e. metagenomics, metabolomics, etc.). You have strong data engineering skills combined with the ability to clearly communicate complex ideas to a non-specialist audience, and deliver high quality deliverables according to the agreed timelines. You will build and deliver data services and solutions in support of digital and scientific projects. Additionally, you are the advisor on the Data Architectures pertaining to digital and scientific projects
+
+About the Job
+Develops and maintains scalable data pipelines and builds out new API integrations to support continuing increases in data volume and complexity.
+Collaborates with analytics and business teams to improve data models that feed business intelligence tools, increasing data accessibility and fostering data-driven decision making across the organization.
+Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Implements processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes that depend on it.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS 'big data' technologies.
+Keep our data separated and secure across national boundaries through multiple data centers and AWS regions.
+Writes unit/integration tests, contributes to engineering wiki, and documents work.
+Performs data analysis required to troubleshoot data related issues and assist in the resolution of data issues.
+Works closely with a team of frontend and backend engineers, product managers, and analysts.
+Defines company data assets (data models), spark, parkSQL, and hiveSQL jobs to populate data models.
+Designs data integrations, data quality framework and evaluates open source and vendor tools for data lineage.
+Works closely with all business units and engineering teams to develop strategy for long term data platform architecture.
+General Responsibilities
+Coordinate the execution of user acceptance testing of data systems and processes.
+Experience with the use of digital technologies for data acquisition in a healthcare, clinical or real-world evidence context strongly preferred.
+Resolving technical problems as they arise and provide updates to Management Team.
+Providing supervision and guidance to development teams, eg. External software vendors.
+Continually researching current and emerging technologies and proposing changes where needed.
+Informing stakeholders about any problems with the current technical solutions / data architectures being implemented and provide resolution strategy.
+Work closely with cross-functional teams such as data science team, scientific researchers and project managers to execute data-centric projects, from ideation, requirement gathering, design and implementation, testing to closure.
+Participate in the drafting and reviewing of SOPs, Work Instructions and other relevant guidelines and documentation for good data governance.
+Continually monitor for opportunities to improve efficiency, effectiveness and data quality and implement changes as appropriate within functional level.
+About You
+Minimum B.A. or B.S. degree, preferably in Information Technology, Computer Science / Engineering or Science.
+Experience in Medicine, Pharmacy, Nursing, Biological Sciences, or health care related data strongly preferred.
+At least 5 years' experience of best practices and IT operations in an always-up, always-available data service
+Experience with or knowledge of Agile Software Development methodologies
+Experience in data management and database design and development within a medical or healthcare context is a strong plus.
+Knowledge of working in a regulated environment and familiarity with PDPA, GDPR, ICH-GCP regulations a plus.
+Advanced knowledge or working with the AWS Data Ecosystem.
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing 'big data' data pipelines, architectures and data sets.
+Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+Ability in managing and communicating data warehouse plans to internal clients
+Experience designing, building, and maintaining data processing systems
+About us
+
+Danone is a global food company holding top positions in healthy food through its three businesses Essential Dairy and Plant-based products, Waters, and Specialised Nutrition. Its mission, bringing health through food to as many people as possible, embodies commitment to human progress and business success. This gives meaning to the work of our 100,000 Danoners worldwide on an everyday basis.
+
+A healthy body needs healthy food. And healthy food needs a healthy planet. This is what our new signature One Planet One Health embodies.
+For passionate people looking for autonomy and exciting career opportunities, Danone truly has something special inside!
+
+#LI-DPS",3.7,"DANONE
+3.7",Singapore,"Paris, France",10000+ employees,1919,Company - Public,Food & Drink Manufacturing,Manufacturing,$10+ billion (SGD),-1
+17,Data Engineer,"At Prudential, we understand that success comes from the talent and commitment of our people. Together, we have a shared vision in securing the future of our customers and our communities. We strive to build a business that you can shape, an inclusive workplace where everyone’s ideas are valued and a culture where we can thrive together. Our people stay connected and tuned in to what’s happening around us, keeping us ahead of the curve. While focused on the long-term, we look to the future to bring growth, development and benefit to everyone whose lives we touch.
+
+Design and build ETL solutions for IFRS17 project. Participate in full SDLC process to support various types of testing and deployment. Provide production and maintenance support after project go live.
+
+Job Profile Summary:
+
+In this role, you will work with existing data analysts and subject matter experts in all parts of the insurance business to deploy complex analytics to enable business to make better decisions. As part of this dynamic role, you will work closely with business units and other IT teams to deliver leading edge predictive and prescriptive analytics to enable digital capabilities of Prudential Singapore.
+
+Job Description:
+Design and develop ETL jobs using SQL, SSIS, Azure, and big data technologies
+Responsible for end to end data processing from source data ingestion, data modelling, data mapping and transformation, and data delivery to downstream consuming systems
+Provide support for various types of testing, including SIT, UAT, ORT and other testing if necessary
+Comply with PACS SDLC process, architectural standards, and security policies in all delivery work
+Collaborate with relevant stakeholders (including business users, project team members, and cross functional teams) from all Prudential entities across the region to deliver approved solutions that meet the business requirements on time, on cost, and with quality
+Deliver documentation artefacts per SDLC requirements, such as technical specs, data model and data dictionary, interface specs, data mapping specs, test cases and summary, deployment guide, production support guide, etc.
+Who we are looking for:
+
+Competent in 3 or more areas of the following technology:
+Databases: RDBMS, SQL programming
+ETL and Data Integration Tools: Azure Data Factory (ADF), Microsoft SQL Server Integration Service (SSIS), SAS Data Integration
+Big Data: Hadoop (Hortonworks), Hive, Spark, Sqoop, etc
+Programming and Scripting: Linux/Unix Shell Scripting, Java, Scala, Hive QL
+BI/Dashboarding: SAS Visual Analytics, Qliksense
+Working Experience
+3-8 years in data engineering and modelling.
+Hands on in managing data mapping, data quality and integrity, performance in data processing, etc
+Experience in insurance domain (e.g. LifeAsia system) is an advantage
+Experience in Agile software development
+Education
+Bachelor in Computer Science, Computer Engineering or equivalent
+Personal Traits
+Proactive with can-do attitude
+Independent and self-motivated
+Able to work under pressure to meet tight timeline
+Able to provide regular updates",3.4,"Prudential Assurance Singapore
+3.4",Singapore,"Singapore, Singapore",501 to 1000 employees,1933,Subsidiary or Business Segment,Insurance Operators,Insurance,$5 to $10 billion (SGD),-1
+18,Data Engineer,"Job Description
+We are passionate about data. We collaborate to build elegant, effective, scalable and highly reliable solutions to empower predictive modelling in finance.
+Cubist’s data services group is looking for a Data Engineer to join our dedicated team. Our group is responsible for the timely delivery of comprehensive and error-free data to some of the most demanding and successful systematic and discretionary Portfolio Managers in the world.
+This exceptional individual will be a member of a small team of Data Engineers, Data Scientists, and Data Analysts who play a vital role in ensuring the smooth day-to-day implementation of a large research infrastructure, and the live production trading of billions of dollars of capital across global capital markets, including equities, futures, options and other financial instruments.
+Job Responsibilities
+Building processes and technology tools to deliver data to and support data for discretionary portfolio managers and other teams.
+Data onboarding project management for discretionary portfolio managers.
+Designing, developing, maintaining, and supporting datasets used firm wide, including Security Master, Risk Models, Pricing, and Corporate Actions.
+Monitoring and enhancing the automated data collection and cleansing infrastructure.
+Researching new technologies for improved data management and efficient data retrieval.
+Desirable Candidates
+Ph.D. or Masters in computer science, mathematics, physics, statistics, or other discipline involving rigorous fundamental and/or quantitative analysis techniques.
+Ideal candidate will have at least 1 year of experience as an Analyst for a discretionary portfolio manager or in a similar role.
+Experience working with large data sets, including classification, regression, and distribution analysis.
+Experience applying statistical tests to large data sets.
+Programming skills in SQL, TSQL, SQL Server, or PL-SQL.
+Programming skills in Python and at least one of C#, C++, or Java.
+Web/GUI development experience using Microsoft technologies is a plus.
+Experience dealing with intraday, tick and order book data is a plus.
+Strong problem solving skills.
+Intellectual curiosity and a love of learning.
+Attention to detail and a love of process.
+Strong oral and written communication skills.",3.9,"Point72
+3.9",Singapore,"Stamford, CT",1001 to 5000 employees,2014,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1
+19,Data Engineer,"Singtel
+We have a great opportunity for a talented and self-motivated Data Engineers to join NCS. At NCS, we seek to nurture talents in creating and developing innovative solutions. If you are passionate about new technologies and new ideas, NCS could be a place for you!
+
+NCS is a leading information and communications technology (ICT) and communications engineering services provider across the Asia-Pacific region. We are headquartered in Singapore and a wholly owned subsidiary of the Singtel Group. We have in-depth domain knowledge and unique capabilities that create business value for customers. We offer a broad range of services, including consulting, systems development and integration, business process outsourcing, infrastructure management and solutions, and technology solutions.
+
+NCS is looking for data engineers to operationalize the data integration and management process – to ingest data from numerous data sources and apply transformations for data quality and insights. The data engineer will work closely with the business users, project managers, technical teams like database engineers and source system data owners to develop data pipelines to automate data acquisition and cleansing, to sustain analytics and AI initiatives. The role requires the ability to translate business and technical requirements into data interfaces, data transformation jobs and design data models that powers self-service analytics or AI projects. To support this, you may also need to establish data management processes such as data governance, data cataloguing, security/privacy classification and advise our clients on the collection, storage and consumption of information in their organisations.
+
+Responsibilities:
+Design and implement relevant data models in the form of data marts stored in Operational Data Stores, Data Warehouses or Big Data platforms
+Build data pipelines to bring information from source systems, harmonise and cleanse data to support analytics initiatives for core business metrics and performance trends.
+Perform data profiling to understand data quality and advise practical measures to address such data issues through data transformation and data loading
+Dive into company data to identify sources and features that will drive business objectives.
+Work closely with project manager and technical leads to provide regular status reporting and support them to refine issues/problem statements and propose/evaluate relevant analytics solutions
+Bring your experience and ideas to effective and innovative engineering, design and strategy
+Work in interdisciplinary teams that combine technical, business and data science competencies that deliver work in waterfall or agile software development lifecycle methodologies
+The range of accountability, responsibility and autonomy will depend on your experience and seniority, including:
+Contributing to our internal networks and special interest groups
+Mentoring to upskill peers and juniors
+The Ideal Candidate:
+Undergraduate or graduate degree in Computer science or equivalent
+Possess good communications skills to understand our customers' core business objectives and build end-to-end data centric solutions to address them
+Good critical thinking and problem-solving abilities
+Prior experience building large scale enterprise data pipelines using commercial and/or open source data management tools from vendors such as Informatica, Talend, Microsoft, IBM or Oracle
+Strong knowledge of data manipulation languages such as SQL necessary to build and maintain complex queries and data pipelines • Practical appreciation of data quality metrics and remediation strategies
+Data modelling and architecting skills including strong foundation in data warehousing concepts, data normalisation, and dimensional data modelling such as OLAP
+Experience with other aspects of data management such as data governance, metadata management, archival, data lifecycle management
+Processing of semi-structured and unstructured data sets such as NoSQL, graph and Hadoop based data storage technologies such as MongoDB, Cassandra, HBase, Hortonworks/Cloudera, Elastic Search and Neo4j using Spark, Splunk or Apache Nifi for batch or streaming data
+Large scale data loading experience moving enterprise or operational data from source systems to new applications or data analytics solutions
+Experience in leveraging on cloud-based data analytics platform such as:
+AWS serverless architecture in Lambda on AWS DynamoDB, EMR Redshit
+Azure Data Factory or SQL Data Warehouse
+GCP BigQuery/BigTable, Cloud Dataprep/Dataflow/Dataproc
+
+Apply now »",3.3,"Singtel
+3.3",Singapore,"Singapore, Singapore",10000+ employees,1879,Company - Public,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (SGD),"StarHub, MobileOne, Telstra"
