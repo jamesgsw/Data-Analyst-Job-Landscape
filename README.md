@@ -17,12 +17,15 @@ As graduation approaches for me, I decided that it would be beneficial to get an
 ### 2. Files in this Repository
 The files in this bullet points are ordered in a chronological order of usage for this project.
 * "chromedriver": Needed for the webscraping algorithm in the 2nd bullet point
-* "glassdoor_scraper.py" : The Glassdoor webscraping algorithm
-* "Data Collection.ipynb" : The notebook where we call the webscraping algorithm for the different job titles
-* "Various Job Titles CSV Files" : Folder containing the CSV files that we save after the Data Collection step in bullet 3
-* "Data Cleaning.ipynb" : The notebook with various cleaning algorithm after the data is collected
+* "glassdoor_scraper.py" : The Glassdoor webscraping algorithm in Python
+* "Part 1. Data Collection.ipynb" : The notebook where we call the webscraping algorithm for the different job titles
+* "Part 2. Data Cleaning.ipynb" : The notebook with various cleaning algorithm after the data is collected
+* "Part 3. Data Analysis.ipynb" : 
+* "Various Job Titles CSV Files" Folder : Folder containing the CSV files that we save after the Data Collection step in bullet 3
+* "Various Graphical Visualisation" Folder : Folder containing the various Data Visulisation plots created during the Part 3. Data Analysis in .png format.
 * "LICENSE" : MIT license for open source projects
 * "README.md" : Documentation of the project
+
 
 <a id="point_3"></a>
 ### 3. Data Scraping Approach
