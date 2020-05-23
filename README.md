@@ -19,7 +19,7 @@ As graduation approaches, I decided that it would help to get an overview of the
 The project is written in a Jupyter Notebook file in the Python Language, for easy viewing of the project sections, I have included a viewer website that contains these Jupyter Notebook. I have split the notebooks into the various overarching task I perform for this project.
 * [Part 1. Data Collection](https://nbviewer.jupyter.org/github/jamesgsw/Data-Analyst-Job-Landscape-in-2020/blob/master/Part%201.%20Data%20Collection.ipynb)
 * [Part 2. Data Cleaning](https://nbviewer.jupyter.org/github/jamesgsw/Data-Analyst-Job-Landscape-in-2020/blob/master/Part%202.%20Data%20Cleaning.ipynb)
-* [Part 3. Data Analysis]()
+* [Part 3. Data Analysis](https://nbviewer.jupyter.org/github/jamesgsw/Exploring-the-Big-Data-and-Analytics-Job-Market-in-Singapore-2020/blob/master/Part%203.%20Data%20Analysis.ipynb)
 
 <a id="point_3"></a>
 ## 3. Files in this Repository
