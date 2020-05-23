@@ -11,10 +11,8 @@
 
 <a id="point_1"></a>
 ## 1. Background
-As graduation approaches for me, I decided that it would be beneficial to get an overview of the Data centered jobs in Singapore. Therefore, I decided to web scrap the popular job site, Glassdoor, to gather data on the jobs on the market and have the bigger picture of the job market.
+As graduation approaches, I decided that it would help to get an overview of the Data centric jobs in Singapore. Therefore, I decided to web scrap the popular job site, Glassdoor, to gather data on the jobs on the market and have the bigger picture of the job market.
 
-During the course of the project, I made several key assumptions which I believe should be important to lay out before going into the project.
-<br> Key Assumptions:
 
 <a id="point_2"></a>
 ## 2. Usage
