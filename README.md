@@ -10,8 +10,7 @@ modellingavailable# Data Analyst Job Landscape in Singapore for 2020
   * [4.3 Technical Skills Requested for Jobs](#point_4_3)
   * [4.4 Academic Skills Requested for Jobs](#point_4_4)
   * [4.5 Hires by ownership type](#point_4_5)
-  * [4.6 Job Demand by Industry](#point_4_6)
-  * [4.7 Job Description Word Cloud](#point_4_7)
+  * [4.6 Job Description Word Cloud](#point_4_6)
 * [5. Conclusions](#point_5)
 * [6. Acknowledgement](#point_6)
 * [7. Files in this Repository](#point_7)
@@ -110,13 +109,9 @@ We found that by ownership, the biggest hire of data driven jobs is the private 
 
 ![Screenshot 2020-05-23 at 12 32 40](https://user-images.githubusercontent.com/36501392/82721645-8de70380-9cf1-11ea-9747-a1f81a8023db.png)
 
-<a id="point_4_6"></a>
-<h3> 4.6 Job Demand by Industry </h3>
-We found that the largest listings per industry is the government agencies, followed by internet companies and banking industry. However, it's important to note that we grouped the entire government agencies and its subsidiary as a single industry. Therefore, this might partially explain this large percentage of the job listings.
-![Job demand by Industry](https://user-images.githubusercontent.com/36501392/84592963-e1291d80-ae7b-11ea-8ad6-70a09ba0af2e.png)
 
-<a id="point_4_7"></a>
-<h3> 4.7 Job Description Word Cloud </h3>
+<a id="point_4_6"></a>
+<h3> 4.6 Job Description Word Cloud </h3>
 In the job description, we find that the knowledge in machine learning is the most popular skill that is requested by employers. Other notable skills are data mining, predictive modeling, data pipeline, natural language processing and big data.
 
 ![Job Description Word Cloud](https://user-images.githubusercontent.com/36501392/82721433-a9e9a580-9cef-11ea-86df-defbd17b1b34.png)
