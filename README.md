@@ -113,7 +113,7 @@ We found that by ownership, the biggest hire of data driven jobs is the private 
 <a id="point_4_6"></a>
 <h3> 4.6 Job Demand by Industry </h3>
 We found that the largest listings per industry is the government agencies, followed by internet companies and banking industry. However, it's important to note that we grouped the entire government agencies and its subsidiary as a single industry. Therefore, this might partially explain this large percentage of the job listings.
-![Job demand by Industry](https://user-images.githubusercontent.com/36501392/84592701-395f2000-ae7a-11ea-88b2-b6fde5f886d1.png
+![Job demand by Industry](https://user-images.githubusercontent.com/36501392/84592963-e1291d80-ae7b-11ea-8ad6-70a09ba0af2e.png)
 
 <a id="point_4_7"></a>
 <h3> 4.7 Job Description Word Cloud </h3>
