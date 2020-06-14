@@ -47,12 +47,12 @@ I wanted to find out the number of job listings for the different Job title that
 
 | Job Title	| Number of Jobs |	Relative Frequency, % |
 | :---: | :---: | :---: |
-| Data Scientist	| 925	| 0.45 |
-| Data Analyst	| 477	| 0.23 |
-| Data Engineer	| 440	| 0.21 |
-| Manager	| 129	| 0.06 |
-| Machine Learning Engineer	| 61	| 0.03 |
-| Director	| 17 |	0.01 |
+| Data Scientist	| 925	| 45.00 |
+| Data Analyst	| 477	| 23.00 |
+| Data Engineer	| 440	| 21.000 |
+| Manager	| 129	| 6.00 |
+| Machine Learning Engineer	| 61	| 3.00 |
+| Director	| 17 |	1.00 |
 
 ![Number of Jobs listed on Glassdoor](https://user-images.githubusercontent.com/36501392/84592079-6f4dd580-ae75-11ea-8235-83ef6543ef2e.png)
 
@@ -62,10 +62,10 @@ I found that most jobs posting for data-driven jobs look for hires with Bachelor
 
 |Education Level |	Frequency	| Relative Frequency, % |
 | :---: | :---: | :---:|
-|Bachelors Degree	| 1035 |	0.51 |
-|Masters	| 232	| 0.11 |
-|PhD	| 299	| 0.15 |
-|No Education Specified	| 299	| 0.15 |
+|Bachelors Degree	| 1035 |	51.00 |
+|Masters	| 232	| 11.00 |
+|PhD	| 299	| 15.00 |
+|No Education Specified	| 299	| 15.00 |
 
 ![Minimum Education Level required](https://user-images.githubusercontent.com/36501392/82721446-bf5ecf80-9cef-11ea-9f57-d48ad5d65426.png)
 
@@ -76,14 +76,14 @@ I was very surprise to see that R was not highly requested in the technology ind
 
 | Technical Skills |	Frequency	| Relative Frequency, % |
 | :---: | :---: | :---:|
-| AWS	| 328	| 0.16 |
-| Excel	| 763	| 0.37 |
-| Python | 1351	| 0.66 |
-| R	| 159	| 0.08 |
-| Spark	| 629	| 0.31 |
-| Hadoop | 531	| 0.26 |
-| Scala	| 509	| 0.25 |
-| SQL	| 1193	| 0.58 |
+| AWS	| 328	| 16.00 |
+| Excel	| 763	| 37.00 |
+| Python | 1351	| 66.00 |
+| R	| 159	| 8.00 |
+| Spark	| 629	| 31.00 |
+| Hadoop | 531	| 26.00 |
+| Scala	| 509	| 25.00 |
+| SQL	| 1193	| 58.00 |
 
 ![Technical Skills requested for Job](https://user-images.githubusercontent.com/36501392/82721458-cd145500-9cef-11ea-80fe-48f0f39d6865.png)
 
@@ -100,11 +100,11 @@ We found that by ownership, the biggest hire of data driven jobs is the private 
 
 | Ownership	| Number of Jobs	| Relative Frequency, % |
 | :---: | :---: | :---: |
-| Company - Private |	815	| 0.40 |
-| Company - Public	| 503	| 0.25 |
-| Government	| 258	| 0.13 |
-|Subsidiary or Business Segment	| 33	| 0.02 |
-| College / University	| 16	| 0.01 |
+| Company - Private |	815	| 40.00 |
+| Company - Public	| 503	| 25.00 |
+| Government	| 258	| 13.00 |
+|Subsidiary or Business Segment	| 33	| 2.00 |
+| College / University	| 16	| 1.00 |
 | Contract	| 9	| 0.00 |
 | Unknown	| 9	| 0.00 |
 
