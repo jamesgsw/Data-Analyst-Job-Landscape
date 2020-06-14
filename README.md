@@ -99,7 +99,7 @@ I postulate that many employers believe that these skills should be instilled in
 We found that by ownership, the biggest hire of data driven jobs is the private sector. Followed by public companies and government firms. This is not surprising that private and public company are the biggest players, as they are profit driven and would want to capitalise on new technology and skill set that can help to streamline their operations.
 
 | Ownership	| Number of Jobs	| Relative Frequency, % |
-| :---: | :---: | :---:|
+| :---: | :---: | :---: |
 | Company - Private |	815	| 0.40 |
 | Company - Public	| 503	| 0.25 |
 | Government	| 258	| 0.13 |
@@ -107,6 +107,7 @@ We found that by ownership, the biggest hire of data driven jobs is the private 
 | College / University	| 16	| 0.01 |
 | Contract	| 9	| 0.00 |
 | Unknown	| 9	| 0.00 |
+
 ![Screenshot 2020-05-23 at 12 32 40](https://user-images.githubusercontent.com/36501392/82721645-8de70380-9cf1-11ea-9747-a1f81a8023db.png)
 
 <a id="point_4_6"></a>
