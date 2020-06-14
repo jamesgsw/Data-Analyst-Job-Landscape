@@ -5,6 +5,13 @@ modellingavailable# Data Analyst Job Landscape in Singapore for 2020
 * [2. Usage](#point_2)
 * [3. Data Collection Approach](#point_3)
 * [4. Findings](#point_4)
+  * [4.1 Number of Job Listings per Job Title](#point_4_1)
+  * [4.2 Minimum Education Level Required](#point_4_2)
+  * [4.3 Technical Skills Requested for Jobs](#point_4_3)
+  * [4.4 Academic Skills Requested for Jobs](#point_4_4)
+  * [4.5 Hires by ownership type](#point_4_5)
+  * [4.6 Job Demand by Industry](#point_4_6)
+  * [4.7 Job Description Word Cloud](#point_4_7)
 * [5. Conclusions](#point_5)
 * [6. Acknowledgement](#point_6)
 * [7. Files in this Repository](#point_7)
@@ -29,15 +36,17 @@ I chose Glassdoor as the website to attain my data due to the depth and breadth 
 <br> Unfortunately, Glassdoor do not have any public API available, therefore we needed to scrap the data to collect the information on the postings on the site. I utilised selenium package within Python to scrap the website as Glassdoor renders it webpage with Javascript instead of HTML, therefore, we needed the user input function selenium has to offer.
 <br> The data was pulled on the 22nd May 2020.
 
+
 <a id="point_4"></a>
 ## 4. Findings
 <br>
 
+<a id="point_4_1"></a>
 <h3> 4.1 Number of Job Listings per Job Title </h3>
 I wanted to find out the number of job listings for the different Job title that were related to the keywords used in the data collection process. We found that there's the job listings for Data Scientist, followed by Data Analyst, Data Engineer, Manager, Machine Learning Engineer, and finally, Director.
 
 | Job Title	| Number of Jobs |	Relative Frequency, % |
-| :------- : | :------------: | :--------------: |
+| :---: | :---: | :---: |
 | Data Scientist	| 925	| 0.45 |
 | Data Analyst	| 477	| 0.23 |
 | Data Engineer	| 440	| 0.21 |
@@ -47,60 +56,81 @@ I wanted to find out the number of job listings for the different Job title that
 
 ![Number of Jobs listed on Glassdoor](https://user-images.githubusercontent.com/36501392/84592079-6f4dd580-ae75-11ea-8235-83ef6543ef2e.png)
 
-
+<a id="point_4_2"></a>
 <h3> 4.2 Minimum Education Level Required </h3>
 I found that most jobs posting for data-driven jobs look for hires with Bachelors Degree. However, it can be noted that there's a sizeable numbers of employers looking for masters and PhD level of qualification. There's a sizeable portion of employers who do not specify university level of qualification either as they do not require a university qualification or they omitted the education level in the Job Description.
 
 |Education Level |	Frequency	| Relative Frequency, % |
-| :--------: | :---------: | :---------:|
+| :---: | :---: | :---:|
 |Bachelors Degree	| 1035 |	0.51 |
 |Masters	| 232	| 0.11 |
 |PhD	| 299	| 0.15 |
 |No Education Specified	| 299	| 0.15 |
+
 ![Minimum Education Level required](https://user-images.githubusercontent.com/36501392/82721446-bf5ecf80-9cef-11ea-9f57-d48ad5d65426.png)
 
-
+<a id="point_4_3"></a>
 <h3> 4.3 Technical Skills Requested for Jobs </h3>
 As I expected Python was the most requested skillset that employer wanted prospective hires to have, it's closely followed by SQL. Big data platforms such as Apache Spark and Hadoop alongside Scala are relatively high in demand as well.
 I was very surprise to see that R was not highly requested in the technology industry but I postulate that R is used greater in academic circles.
 
-Technical Skills	Frequency	Relative Frequency, %
-0	AWS	328	0.16
-1	Excel	763	0.37
-2	Python	1351	0.66
-3	R	159	0.08
-4	Spark	629	0.31
-5	Hadoop	531	0.26
-6	Scala	509	0.25
-7	SQL	1193	0.58
+| Technical Skills |	Frequency	| Relative Frequency, % |
+| :---: | :---: | :---:|
+| AWS	| 328	| 0.16 |
+| Excel	| 763	| 0.37 |
+| Python | 1351	| 0.66 |
+| R	| 159	| 0.08 |
+| Spark	| 629	| 0.31 |
+| Hadoop | 531	| 0.26 |
+| Scala	| 509	| 0.25 |
+| SQL	| 1193	| 0.58 |
+
 ![Technical Skills requested for Job](https://user-images.githubusercontent.com/36501392/82721458-cd145500-9cef-11ea-80fe-48f0f39d6865.png)
 
-
-<h3> 4.3 Academic Skills Requested for Jobs </h3>
+<a id="point_4_4"></a>
+<h3> 4.4 Academic Skills Requested for Jobs </h3>
 Unsurprisingly, the top academic skill set looked for by employers is Machine Learning with predictive analysis. However other academic skills sets such as DevOps, Statistics and Database Management is actually rarely mention, and Calculus was not mention at all.
 I postulate that many employers believe that these skills should be instilled into them during their academic training. Therefore, in the next sub-section, I'll investigate the education level that employers expect.
 
 ![Academic Skills requested for Job](https://user-images.githubusercontent.com/36501392/82721464-d3a2cc80-9cef-11ea-8ca8-1f0f14cb75db.png)
 
-
-<h3> 4.4 Hires by ownership type </h3>
+<a id="point_4_5"></a>
+<h3> 4.5 Hires by ownership type </h3>
 We found that by ownership, the biggest hire of data driven jobs is the private sector. Followed by public companies and government firms. This is not surprising that private and public company are the biggest players, as they are profit driven and would want to capitalise on new technology and skill set that can help to streamline their operations.
 
+| Ownership	| Number of Jobs	| Relative Frequency, % |
+| :---: | :---: | :---:|
+| Company - Private |	815	| 0.40 |
+| Company - Public	| 503	| 0.25 |
+| Government	| 258	| 0.13 |
+|Subsidiary or Business Segment	| 33	| 0.02 |
+| College / University	| 16	| 0.01 |
+| Contract	| 9	| 0.00 |
+| Unknown	| 9	| 0.00 |
 ![Screenshot 2020-05-23 at 12 32 40](https://user-images.githubusercontent.com/36501392/82721645-8de70380-9cf1-11ea-9747-a1f81a8023db.png)
 
-<h3> 4.5 Job Description Word Cloud </h3>
+<a id="point_4_6"></a>
+<h3> 4.6 Job Demand by Industry </h3>
+We found that the largest listings per industry is the government agencies, followed by internet companies and banking industry. However, it's important to note that we grouped the entire government agencies and its subsidiary as a single industry. Therefore, this might partially explain this large percentage of the job listings.
+![Job demand by Industry](https://user-images.githubusercontent.com/36501392/84592701-395f2000-ae7a-11ea-88b2-b6fde5f886d1.png
+
+<a id="point_4_7"></a>
+<h3> 4.7 Job Description Word Cloud </h3>
 In the job description, we find that the knowledge in machine learning is the most popular skill that is requested by employers. Other notable skills are data mining, predictive modeling, data pipeline, natural language processing and big data.
 
 ![Job Description Word Cloud](https://user-images.githubusercontent.com/36501392/82721433-a9e9a580-9cef-11ea-86df-defbd17b1b34.png)
+
 
 <a id="point_5"></a>
 ## 5. Conclusions
 Overall, I'm satisfied with the outcome of this project where I was able to fulfil my 2 goals of the project and have a better understanding of the Data centric Job Market. However, I would like to note that there are assumptions and limitations to the dataset that I would like to improve for future improvements, where I would like to gather data from Linkedin Jobs as well to increase the sample size of my search.
 Thank you for viewing!(:
 
+
 <a id="point_6"></a>
 ## 6. Acknowledgement
 This project would not have been possible without the resources shared by other Github members. There are 2 notable Github members I would like to thank, they are [Mr Ken Jee](https://github.com/PlayingNumbers) and [Mr Ömer Sakarya](https://github.com/arapfaik).
+
 
 <a id="point_7"></a>
 ## 7. Files in this Repository
